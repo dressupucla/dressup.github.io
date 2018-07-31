@@ -13,4 +13,4 @@ role: instructor
 
 ## Biography
 
-Joy is a Digital Research Assistant for the UCLA Library and has had experience working with digital tools involving mapping, 3D modeling, and data collection. After working a couple of years in IT, she is excited to be going back to school to focus on the Social Sciences and return to her various research interests involving mental health and immersive technologies.
+Joy is a Digital Research Assistant for the UCLA Library and has had experience working with digital tools involving 3D modeling, mapping, and web design. After working a couple of years in IT, she is excited to be going back to school to focus on the Social Sciences and return to her various research interests involving mental health and immersive technologies.
