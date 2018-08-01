@@ -2,16 +2,16 @@
 layout: people
 display_name: Faisal Abdullah
 title: Dude
-picture: awkward_turtle.jpg
-twitter:  []
-github: []
-email: fakeemail@fakewebsite.com
+picture: awkward_turtle
+twitter:
+github:
+email:
 website: google.com
 role: participant
-session: [summer-18]
+session: summer-18
 ---
 ## Biography
-Faisal has a biography.
+The participant has a biography.
 
 ## Project Description
-This is a project description.
+The project has a description.
