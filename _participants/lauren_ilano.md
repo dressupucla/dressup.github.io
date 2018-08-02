@@ -2,11 +2,11 @@
 layout: people
 display_name: Lauren Ilano
 title: Ph.D. Student, Higher Education and Organizational Change
-picture: catportrait5
+picture: cat_portrait5
 twitter:  
 github: laurenilano
 email: laurenilano@gmail.com
-website: 
+website:
 role: participant
 session: summer-18
 ---
