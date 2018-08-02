@@ -2,6 +2,7 @@
 layout: people
 display_name: Andreas-Benjamin Seyfert
 title: Department of Germanic Languages
+description: PhD student at the Germanic Department at UCLA, Ben is interested in the films of the Weimar Republic.
 picture: Ben
 twitter:  
 github: seyfertab
