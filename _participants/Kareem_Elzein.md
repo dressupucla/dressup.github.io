@@ -2,7 +2,7 @@
 layout: people
 display_name: Kareem Elzein
 title: Education PhD Candidate
-picture: Kareem
+picture: kareem
 twitter:  kareeze
 github: kareezee
 email: kareeme@ucla.edu
